@@ -3,6 +3,8 @@ title = 'Piyush Itankar'
 date = 2024-06-15T18:58:29+05:30
 +++
 
+![](pi.jpeg)
+
 > He who has a why can bear almost any how!\
 > _\- Friedrich Nietzsche_
 
@@ -11,6 +13,8 @@ By profession, I am an Embedded Systems, Software Engineer. I am passionate abou
 My other intellectual interests are in the fields of - Humanities, Psychology and Human behavior, Justice, and Education. It's just amazing how far humanity has come and how much it has achieved. I like to ponder on how all of it happened, despite catastrophic events like the World Wars!
 
 Lately, I have gone OCD on studying the interaction between Waves and Matter, and Mathematical Modeling of Biological Systems. It may not seem obvious but both these topics have given me a very different view of how Nature operates! Here is a snap of the books I am in love with -
+
+![](books.jpeg)
 
 My Blog is a collection of notes. These notes include experiences, comments on career development, experiments in Embedded systems development, and random other things that I feel like keeping a record of.
 

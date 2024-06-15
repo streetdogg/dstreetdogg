@@ -1,6 +1,7 @@
 +++
 title = 'Chuck it, Let’s do it!'
 date = 2015-03-22T16:15:12+05:30
+image = 'jump.jpeg'
 +++
 
 
