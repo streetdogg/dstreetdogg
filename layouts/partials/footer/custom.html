@@ -1,0 +1,16 @@
+  <!-- Load library from the CDN -->
+  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+
+  <!-- Setup and start animation! -->
+  <script>
+  let span = document.createElement("span");
+  span.setAttribute("id","element");
+  document.getElementsByClassName("site-name")[0].appendChild(span);;
+
+  new Typed('#element', {
+    strings: [' '],
+    typeSpeed: 1,
+    cursorChar: '＿',
+    fadeOut: true,
+  });
+  </script>

@@ -11,7 +11,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: "〉streetdogg _"
+        title: "〉streetdogg "
         weight: 1
         params:
             description: Piyush Itankar's Blog!
