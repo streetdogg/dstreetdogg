@@ -117,7 +117,7 @@ menu:
           name: Linkedin
           url: https://www.linkedin.com/in/streetdogg/
           params:
-              icon: link
+              icon: linkedin
 
         - identifier: github
           name: GitHub
@@ -130,6 +130,18 @@ menu:
           url: https://x.com/dstreetdog
           params:
               icon: brand-twitter
+
+        - identifier: discord
+          name: Discord
+          url: https://discord.gg/rBPYta98zD
+          params:
+              icon: discord
+
+        - identifier: Youtube
+          name: Youtube
+          url: https://youtube.com/@inpyjama
+          params:
+              icon: youtube
 
 related:
     includeNewer: true
