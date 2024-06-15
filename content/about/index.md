@@ -1,7 +1,8 @@
-+++
-title = 'Piyush Itankar'
-date = 2024-06-15T18:58:29+05:30
-+++
+---
+title: "Piyush Itankar"
+date: 2024-06-15T18:58:29+05:30
+slug: "about"
+---
 
 ![](pi.jpeg)
 

@@ -59,13 +59,13 @@ params:
 
     widgets:
         homepage:
-            # - type: search
-            # - type: archives
-            #   params:
-            #       limit: 5
-            # - type: categories
-            #   params:
-            #       limit: 10
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
             - type: tag-cloud
               params:
                   limit: 10
@@ -111,7 +111,7 @@ menu:
         - identifier: about
           name: About
           url: /about
-          weight: -100
+          weight: -10
     social:
         - identifier: linkedin
           name: Linkedin
