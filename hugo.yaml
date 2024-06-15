@@ -11,7 +11,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: "〉streetdogg "
+        title: "〉streetdogg"
         weight: 1
         params:
             description: Piyush Itankar's Blog!
@@ -75,7 +75,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site: piyushitankar
+            site: dstreetdog
 
             # Available values: summary, summary_large_image
             card: summary_large_image
