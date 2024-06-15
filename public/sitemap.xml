@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://streetdogg.github.io/dstreetdogg/categories/</loc>
-  </url><url>
     <loc>https://streetdogg.github.io/dstreetdogg/</loc>
+    <lastmod>2024-06-15T16:15:12+05:30</lastmod>
+  </url><url>
+    <loc>https://streetdogg.github.io/dstreetdogg/posts/</loc>
+    <lastmod>2024-06-15T16:15:12+05:30</lastmod>
+  </url><url>
+    <loc>https://streetdogg.github.io/dstreetdogg/categories/</loc>
   </url><url>
     <loc>https://streetdogg.github.io/dstreetdogg/tags/</loc>
   </url>
