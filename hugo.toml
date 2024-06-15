@@ -2,5 +2,3 @@ baseURL = 'https://streetdogg.github.io/dstreetdogg/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-stack'
-
-publishDir = './docs'
