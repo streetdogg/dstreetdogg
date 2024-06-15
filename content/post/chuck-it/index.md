@@ -4,7 +4,6 @@ date = 2015-03-22T16:15:12+05:30
 image = 'jump.jpeg'
 +++
 
-
 The first thing I realized after landing on the spongy bed was -
 
 > It’s usually we who stand in our own way!
