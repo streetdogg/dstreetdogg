@@ -1,7 +1,7 @@
 baseURL : 'https://streetdogg.in/'
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 3
+paginate: 10
 title: "streetdogg _"
 copyright: Piyush Itankar
 
@@ -59,13 +59,13 @@ params:
 
     widgets:
         homepage:
-            - type: search
-            - type: archives
-              params:
-                  limit: 5
-            - type: categories
-              params:
-                  limit: 10
+            # - type: search
+            # - type: archives
+            #   params:
+            #       limit: 5
+            # - type: categories
+            #   params:
+            #       limit: 10
             - type: tag-cloud
               params:
                   limit: 10
