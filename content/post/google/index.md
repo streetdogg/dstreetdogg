@@ -3,6 +3,12 @@ title = 'How I got into Google!'
 image = "pg.jpeg"
 description = "A quick note on my Google Interview Experience for the position of Software Engineer, Embedded systems."
 date = 2021-07-07T08:41:17+05:30
+tags = [
+    "personal"
+]
+categories = [
+    "career"
+]
 +++
 
 # Timeline
@@ -256,7 +262,7 @@ We were done with the interview. He mentioned he had no more questions from the 
 
 Back to micro-kitchen. Opened the fridge, grabbed the largest water bottle and began to gulp in as much as I could. [Aditya](https://www.linkedin.com/in/aditya-tiwari-755b76161/) was surprised that I always seemed to favour water overall sort of stuff in there. When asked, I remember having replied, "I don't want to get too attached to all of this today...". We both laughed.
 
-He then asked me if I had some more time for the day. I had nothing to do in the evening so I suggested it was all right. We sat in the games/play area and just plain talked. He had called up [Ajit](https://www.linkedin.com/in/ajitnathanael/) too. I thanked them both. Mentioned I had had a very good day. I felt I was treated well. They then called up Manoj (their senior) and we all had a casual talk. Fifteen minutes later, we all decided to head home. I was back in the car and drove back home.
+He then asked me if I had some more time for the day. I had nothing to do in the evening so I suggested it was all right. We sat in the games/play area and just plain talked. He had called up [Ajit](https://www.linkedin.com/in/ajitnathanael/) too. I thanked them both. Mentioned I had had a very good day. I felt I was treated well. They then called up [Manoj](https://www.linkedin.com/in/manojkulkarni1/) (their senior) and we all had a casual talk. Fifteen minutes later, we all decided to head home. I was back in the car and drove back home.
 
 The day ended well. If they later told me they had moved on, it won't hurt me and I would not be scrambling for what I did right and wrong. I knew I had been the best technical version of myself I could be and stretching beyond that won't be me being me anymore. Besides, I was extremely thankful and satisfied with how I was treated. Human first!
 

@@ -4,6 +4,9 @@ date = 2018-10-23T16:15:12+05:30
 image = 'water.jpeg'
 description = "I have no idea what is going on in my life at the moment."
 tags = [
+    "personal"
+]
+categories = [
     "experiences"
 ]
 +++

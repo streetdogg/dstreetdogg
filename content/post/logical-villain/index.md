@@ -3,6 +3,9 @@ title = 'The Logical Villain'
 date = 2017-09-19T16:15:12+05:30
 description = "Growing up, I looked up to every adult around me to learn how to take decisions and how to decide between right and wrong..."
 tags = [
+    "personal"
+]
+categories = [
     "experiences"
 ]
 +++

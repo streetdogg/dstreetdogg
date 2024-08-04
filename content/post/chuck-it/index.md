@@ -3,6 +3,9 @@ title = 'Chuck it, Let’s do it!'
 date = 2015-03-22T16:15:12+05:30
 description = "I tried something new. Jumped right into it and discovered... Winning is more a matter of choice and will than practice, training and genius. You either choose to win or the devil’s advocate in you convinces you to give up."
 tags = [
+    "personal"
+]
+categories = [
     "experiences"
 ]
 +++

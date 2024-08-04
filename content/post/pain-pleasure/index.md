@@ -3,6 +3,12 @@ title = 'A Slave to Pleasure and Pain'
 image = 'pp.jpg'
 description = "Maybe our autonomy is no more than being a slave to impulse of seeking pleasure and avoiding pain."
 date = 2021-04-14T08:25:31+05:30
+tags = [
+    "personal"
+]
+categories = [
+    "experiences"
+]
 +++
 
 > You prepare for the future, plan for it and if it happens it has to be yours!

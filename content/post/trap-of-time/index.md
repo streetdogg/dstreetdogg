@@ -4,6 +4,9 @@ date = 2016-05-11T16:15:12+05:30
 image = 'watch.jpeg'
 description = "I am trying to make peace with the fact that people grow old. I will some day, lose my parents..."
 tags = [
+    "personal"
+]
+categories = [
     "experiences"
 ]
 +++
