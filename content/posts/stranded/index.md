@@ -8,6 +8,7 @@ cover: 1.jpg
 categories:
   - "experiences"
   - "personal"
+draft: true
 ---
 
 >Those who suffer, suffer in silence!
