@@ -4,7 +4,7 @@ date:  2022-07-10T09:32:17+05:30
 author: Piyush Itankar
 avatar: "/img/avatar.png"
 authorlink: https://www.linkedin.com/in/streetdogg/
-cover: 5.jpg
+cover: 6.jpg
 categories:
   - "experiences"
 ---
