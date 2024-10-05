@@ -15,9 +15,14 @@ avatar = "/img/avatar.png"
 authorlink =  "https://www.linkedin.com/in/streetdogg/"
 +++
 
+Been getting a lot of questions about how embedded systems interviews are at Google. Here is a detailed note on my inteview experience at Google from 2019 for the L3 role ...
+
+<!--more-->
+---
+
 # Timeline
 
-![](timeline.jpeg)
+![timeline of the events](timeline.jpeg)
 
 I was reached out by a Google recruiter [Aditya Tiwary](https://www.linkedin.com/in/aditya-tiwari-755b76161/) in the first week of February 2019. It started as a casual talk about my background and experience and ended with me applying online. This had happened too fast, in less than two days or so. He then asked me for a suitable time for a technical discussion. The same evening, we had a fifteen minutes chat on technical topics. From what I could understand he was probing to understand what kind of role I would fit - software or hardware. Convinced that I favoured being in embedded software more than the hardware, he went on to schedule the telephonic interview two weeks into the future. As pointed in the image above, this would be the last week of February 2019.
 

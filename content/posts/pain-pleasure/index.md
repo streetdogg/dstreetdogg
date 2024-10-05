@@ -15,6 +15,11 @@ avatar = "/img/avatar.png"
 authorlink =  "https://www.linkedin.com/in/streetdogg/"
 +++
 
+I have spent a lot of time thinking over how to decide between what is right and what is wrong. I reflect on my learnings from the course "Justice - What's the right thing to do" from Harvard university ...
+
+<!--more-->
+---
+
 > You prepare for the future, plan for it and if it happens it has to be yours!
 
 Nothing particular is on my mind at the moment. I was just contemplating the importance of playing long-term and not losing the focus for short-term gain. Pleasure is a tricky business, one that most of us are driven by. Where did that come from? Hang on, it gets better.

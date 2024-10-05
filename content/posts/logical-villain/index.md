@@ -14,6 +14,11 @@ avatar = "/img/avatar.png"
 authorlink =  "https://www.linkedin.com/in/streetdogg/"
 +++
 
+I grew up looking at the elders and seniors in the house take decisions. I keenly observed the process by which they would land on a decisions.
+
+<!--more-->
+---
+
 The World somehow always convinces you that in some sense you are falling behind. That you lack, your life sucks and you are the chosen one for an eternal doom. You literally need to have an infinitum of motivation and will to be able to override the noise. The short sellers create a level of chaos that is literally blinding if you are not quick to see through. And sadly the world is full of such people!
 
 I find myself in the center of a Shakespearean tragedy! Not as a character in it but as an on looker. I am the youngest in the family and I have grown up looking at the adults operating in this complex world. Because expectations on me were always near zero, I think I have had a good chance to experiment and learn on my own. A free mind that absorbed everything that adults were doing, the way they took decisions, the way they treated each other and the way they rationalized. Little eyes were always watching and learning. It was interesting to note how in certain situations they had to decide based on limited information and lot of ambiguity, people usually sat around a table and started making various theories.

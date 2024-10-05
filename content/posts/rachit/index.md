@@ -9,6 +9,12 @@ categories:
   - "experiences"
   - "personal"
 ---
+
+Rachit was my roommate from the college years. He had this crazy love for Lamborghini and wanted to visit - Lamborghini, Sant’agata, Italy. This post is a reflection on the visit ...
+
+<!--more-->
+---
+
 I walked towards his bed, sat on the chair next to the table, and asked, "Choose a date paaji".
 
 "17th April 2017", he replied swiftly.

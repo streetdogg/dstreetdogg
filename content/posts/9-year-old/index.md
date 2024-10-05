@@ -9,6 +9,11 @@ categories:
   - "experiences"
 ---
 
+My nephew programmed a CPU when he was 9 (during the lock down). He stater with learning C, CPUs and moved to learning programming in Python (and coding a neural network). This note captures the details of how he did it, what helped and what didn't ...
+
+<!--more-->
+---
+
 I ended up teaching my nephew (9 years of age) to write code in C language and, by extension, learn to program anything in any programming language.
 
 If you are in hurry, here is the gist - I nudged him to learn C when he was a 4th grader. Two years later, he is at a point where he can code in C, Python, Javascript, etc, and adapts to new languages as needed. Has a good idea of the common data structures and algorithms which he seems to have been using to solve problems. His GitHub repositories among other things seem to also have one which implements a [Perceptron](https://github.com/vtarale/cPerceptron/blob/main/src/perceptron.c) and a [Neural Network](https://github.com/vtarale/NNetworks/blob/main/Library/Neural_network.py) library, that too from scratch - No libraries used!

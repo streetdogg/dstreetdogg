@@ -10,6 +10,11 @@ categories:
   - "personal"
 ---
 
+Most people dream big but do nothing. Padmanabh dared to dream, fail multiple times and achieve what he wanted. In many ways his grit reminded me of mine. This is my reflection on the phone call I had with him ...
+
+<!--more-->
+---
+
 29th of July, 2014. Evening. Around 8pm, I called him to flush my frustration. The phone rang, he attended and before I could greet “hello!” he said with a sense of relief (more like having found some water in sight when lost in a desert), “Piyush! You called me just at the right time“. I quickly felt at home, we both share the phase of struggle. He was caught in a curve of life, his dream was slipping out while I was fighting my own dark times.
 
 We always felt we sailed in the same boat. But there were problems with our boat, we had no clue where it was going. We had no clue what life was doing with us, we had our plans, but life was happening and all strings seemed slipping out of hand. Worst yet, the boat had a hole in it. Big one. A leaky boat...

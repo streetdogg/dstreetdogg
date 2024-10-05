@@ -14,6 +14,11 @@ avatar = "/img/avatar.png"
 authorlink =  "https://www.linkedin.com/in/streetdogg/"
 +++
 
+What we see as the limits of the world might not be the actual limits. This note is penned down version of the chatter in my head.
+
+<!--more-->
+---
+
 The first thing I realized after landing on the spongy bed was -
 
 > It’s usually we who stand in our own way!

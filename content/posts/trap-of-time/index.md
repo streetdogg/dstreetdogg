@@ -15,6 +15,11 @@ avatar = "/img/avatar.png"
 authorlink =  "https://www.linkedin.com/in/streetdogg/"
 +++
 
+My parents have become old and fragile. I spent some time thinking how life would be after them ...
+
+<!--more-->
+---
+
 Every morning I look at them. I am thankful that I have them. Then I feel sad, they are growing old. And growing old fast. My Mum’s once jet black hair has now turned Grey. Dad has slowed down on his pace of doing things. It’s hard to believe and is a visit to an alternate universe.
 Every day that goes by scares the shit out of me. Both of them are senior citizens and I am always worried that the immune system is going down, the body is tending to give up. Call me a pessimist but I am not. It’s just too hard for me to accept. Last I properly saw them, both were young and taking life head-on. Eight years later when I am back home and living with them I realize,
 
@@ -32,3 +37,4 @@ As with my mother. I fight with her! we are constantly in an argument and opposi
 These guys are my favorite. I am trying hard to be a good Son. Their generation has a different world view and mine is a totally different one. I am trying to see how the world looks when seen from their eyes. I just hope that they enjoy it some more. Life has been rough, I want to make it joyful now. And the window of opportunity is small!
 
 What happens after them I really don’t know. Maybe I’ll have a family organically, where everyone respects and trusts each other. Where people would miss each other when apart. And maybe I’ll spend time loving and inventing new stuff.
+
