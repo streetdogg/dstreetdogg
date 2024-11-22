@@ -11,9 +11,11 @@ categories:
 draft: false
 ---
 
->Those who suffer, suffer in silence!
-
 There is Dragon in the house! And it has been growing bigger for the past five years. Of the six years that we are in a relationship, only the first was blissful. The remainder five - an agony-filled, self-destructive drag!
+
+<!--more-->
+
+>Those who suffer, suffer in silence!
 
 I wouldn't say it was love at first sight when I first saw her back in college. For reasons unknown I would just feel happy and blissful when she was around. Post the first half of the usual academic day (lunchtime), I would be at the notice board reading through the updates and waiting for my other friends to be done with their classes (we would then go for lunch together). I could tell she was within six feet by the aroma. She would stand next to me (more or less and I always hated when there were others between both of us), read through the updates and once her friends were all there, they would leave for lunch. We were not friends yet (well, we had chatted a handful of times for less than a minute. Assuming I was no one to her would be very accurate).
 
